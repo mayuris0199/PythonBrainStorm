@@ -1,6 +1,6 @@
 # Python Disctionary operations
-a = {}
 # this is the initialization of empty python dictionary
+a = {}
 print a
 # add some ky values in thr dict 
 a["k1"] = "v1"
