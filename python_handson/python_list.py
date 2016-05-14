@@ -21,7 +21,7 @@ print a
 a.remove(12)
 print a
 
-# 3. remove items from last of list 
+# 3. pop items from last of list 
 a.pop()
 print a
 
