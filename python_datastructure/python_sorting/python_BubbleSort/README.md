@@ -10,3 +10,7 @@ b_list = [9 , 5, 1, 6, 7]
 4. take 3nd and 3rd place number and follow 2 and 3 step until end
 ```
 Output : [1, 5, 6, 7, 9]
+
+For more info check link : 
+http://en.wikipedia.org/wiki/Bubble_sort
+
