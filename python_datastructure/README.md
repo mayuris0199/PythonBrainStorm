@@ -1,6 +1,6 @@
 # Datastructure and Algorithm
 
-###Why we need data structure ?
+### Why we need data structure ?
 
 Data structure solve some execution probles which should handle & process milions & bilions
 of data with below thing in mind.
@@ -11,14 +11,14 @@ of data with below thing in mind.
 4. The algo should be low I/O operations on disk 
 5. The algo should be minimize execution time.
 
-###Algorithm
+## Algorithm
 ```
 Write algorithm which will handle above 5 things will make your code perfect in all way.
 Algorithm is a step by step procedure to be executed in certain order to get required output.
 it is designed to achieve optimum solution for given problem.
 ```
 
-###For below operations we write Algorithms.
+#### For below operations we write Algorithms.
 ```
 1. Search
 2. Sort
@@ -27,12 +27,12 @@ it is designed to achieve optimum solution for given problem.
 5. Update
 6. Delete
 ```
-# Searching Algorithm
+#### Searching Algorithm
 ```
 1. Linear Search
 2. Binary Search
 ```
-# Sorting Algorithm
+#### Sorting Algorithm
 ```
 1. Bubble Sort
 2. Insertion Sort
@@ -41,7 +41,7 @@ it is designed to achieve optimum solution for given problem.
 5. Merge Sort
 6. Heap Sort
 ```
-# Datastructure Algorithm
+#### Datastructure Algorithm
 ```
 1. Stack
 2. Queue
